@@ -1,1 +1,1 @@
-# MAST-Part-3
+i habve added seperate courses. my menu shows the avergae price of the food. i have added a back button and a course button. each food item has the price. you have the option to add a a food item and you have the option to remove it. i have added buttons that help navigate to mainscreen. my logo i
